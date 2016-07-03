@@ -1,0 +1,19 @@
+{
+	"name": "BitSetModule",
+	"version": "1.0.0",
+	"description": "Performant JavaScript bitset",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/axelf4/BitSetModule.git"
+	},
+	"keywords": [
+		"bitset"
+	],
+	"author": "Axel Forsman",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/axelf4/BitSetModule/issues"
+	},
+	"homepage": "https://github.com/axelf4/BitSetModule#readme"
+}
